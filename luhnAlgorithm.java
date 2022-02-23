@@ -1,7 +1,7 @@
 package theHuxley;
 import java.util.Scanner;
 
-public class validacaoCartao {
+public class luhnAlgorithm {
 
 	public static void main(String[] args) {
 		
